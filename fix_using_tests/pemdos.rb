@@ -11,4 +11,3 @@ def snake_it_up(string)
   elseif
    p string
   end
-end
