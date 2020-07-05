@@ -9,7 +9,7 @@ def snake_it_up(string)
   end
     
     
-  else
+  elseif
    p string
   end
 end
