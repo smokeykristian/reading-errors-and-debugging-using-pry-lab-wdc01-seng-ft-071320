@@ -4,7 +4,7 @@ def snake_it_up(string)
   
   if string[0] = "s"
     
-   print ("s" * 10) + string
+   p ("s" * 10) + string
       binding.pry
   
   
