@@ -7,8 +7,7 @@ def snake_it_up(string)
    print ("s" * 10) + string
       binding.pry
   end
-    
-    
+  
   elseif
    p string
   end
